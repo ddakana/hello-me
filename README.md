@@ -1,6 +1,6 @@
-# hello-me
+hello-me
 just another repository
 
-my name is david i like to swim at the beach
+hi there
 
-i had pork chops tonght
+names david
